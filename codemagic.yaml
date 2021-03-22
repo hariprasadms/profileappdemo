@@ -11,4 +11,4 @@ workflows:
     publishing:
       email:
         recipients:
-          - codemagic@example.com
+          - mogallitester@gmail.com
